@@ -215,6 +215,8 @@ button a {
     align-items: center;
     background-color: black;
     width: 100%;
+    box-shadow: 0px -1px 20px darkslategray;
+
 }
 
 .footer-flag {
@@ -239,5 +241,5 @@ button a {
 
 .footer-year p {
     font-size: .75rem;
-    color: lightgray;
+    color: darkslategray;
 }
