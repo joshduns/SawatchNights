@@ -68,8 +68,8 @@ header a {
     font-size: 1.75rem;
 }
 
-header h5:hover {
-    background-color: rgb(99, 9, 9);
+header a:hover {
+    color: rgb(177, 61, 61);
 }
 
 
