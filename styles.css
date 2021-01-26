@@ -93,9 +93,8 @@ header h5:hover {
 }
 
 .house-main img {
-    width: 600px;
-    height: auto;
-    display: hidden;
+    width: auto;
+    height: 450px;
     padding: 1%;
 }
 
@@ -182,7 +181,8 @@ header h5:hover {
 
 .host-pics img {
     height: 300px;
-    width: auto;
+    width: 225px;
+    ;
     margin: 3%;
 }
 
@@ -195,7 +195,7 @@ button {
     width: 250px;
     height: 75px;
     color: whitesmoke;
-    background-color: palevioletred;
+    background-color: rgb(187, 39, 88);
     border-radius: 50px;
     font-size: 1.75rem;
     border: 2px solid whitesmoke;
